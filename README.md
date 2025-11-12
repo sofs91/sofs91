@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sofia 👋
 
-<!--
-**sofs91/sofs91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-driven Product Manager building practical tools with LLMs, MCPs, and all new things AI.
 
-Here are some ideas to get you started:
+**Portuguese-Australian 🇵🇹🇦🇺 | Based in Lisbon | 2 continents • 3 countries • Endless curiosity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work here is hands-on: real implementations, clear patterns, and practical AI solutions for efficiency and automation.
+
+---
+
+## What I Build
+
+- 🤖 **AI Agents**: LLM applications, prompt engineering, multi-agent systems
+- 🔌 **MCP integrations**: Building with Model Context Protocol
+- ⚡ **Efficiency tools**: Automation projects that solve real problems
+- 🛠️ **Dev workflows**: Tools and templates for AI implementation
+- 📊 **Data products**: Turning insights into actionable solutions
+
+---
+
+## About Me
+
+- 💼 **Product Manager** with deep experience in AI/ML products
+- 🏪 Built **autonomous retail solutions** using computer vision at sensei.tech
+- 📦 Optimized **supply chain networks** with data science at WooliesX
+- 🚚 Scaled **logistics SaaS** products at Ofload (Australia's largest logistic tech company)
+- 🔒 Currently at **Usercentrics** working on privacy-first marketing solutions
+- 🌱 Always **experimenting** with the latest AI tools and sharing what I learn
+- 💡 **PM by trade, builder at heart** — shipping side projects and learning in public
+
+---
+
+**Focus areas**: LLMs • Model Context Protocol • RAG • AI Agents • Automation • Supply Chain • Efficiency • AI implementation and training
+
+---
+
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sofia-dias-59a09756/)
+- 🌍 Open to collaborating on AI projects and efficiency tools
+- 💬 Always happy to chat about AI product development, automation, or building in public
+
+---
+
+*Building AI products that respect privacy and deliver real value* ✨
